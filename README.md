@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/chinmayeegithubid/HealthNutriSnapAI/blob/main/logo.png" width="200" alt="HealthNutriSnapAI Logo">
+</p>
+
+
 # 🥗 HealthNutriSnapAI
 
 **AI-powered food calorie and nutrition analyzer using Gemini 1.5 & Streamlit**
