@@ -1,0 +1,12 @@
+# Ignore virtual environment and system files
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+temp.wav
+.env
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.vscode/
